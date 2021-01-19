@@ -10,7 +10,8 @@ const Promotion = () => {
           <Fade bottom cascade>
             <h1>{data.promotionHeading}</h1>
           </Fade>
-          <a>{data.promotionPara}</a>
+          <a href={data.promotionPara}>
+          My Resume</a>
         </div>
       </div>
     </div>

@@ -180,12 +180,12 @@ export default {
 
   promotionHeading: "Resume",
   promotionPara:
-    "https://github.com/rileyb123",
+    "https://pdfhost.io/v/ZbT4mBpY._quiz_cheat_sheetpdf.pdf",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
 
-  contactSubHeading: "Let's create your next experience together",
+  contactSubHeading: "Reach out to me with questions at",
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https://github.com/rileyb123" },
