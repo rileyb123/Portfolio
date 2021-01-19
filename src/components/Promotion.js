@@ -4,13 +4,13 @@ import data from "../yourdata"
 
 const Promotion = () => {
   return (
-    <div className="section">
+    <div id="resume" className="section">
       <div className="container">
         <div className="promotion-container">
           <Fade bottom cascade>
             <h1>{data.promotionHeading}</h1>
           </Fade>
-          <p>{data.promotionPara}</p>
+          <a>{data.promotionPara}</a>
         </div>
       </div>
     </div>
