@@ -1,3 +1,5 @@
-React Portfolio from a React Template
+Personal React Portfolio,
 At https://rileyburc.netlify.app
+
+
 
