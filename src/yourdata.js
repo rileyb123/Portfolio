@@ -194,7 +194,7 @@ export default {
 
   promotionHeading: "Resume",
   promotionPara:
-    "https://pdfhost.io/v/ZbT4mBpY._quiz_cheat_sheetpdf.pdf",
+    "https://pdfhost.io/v/Zq6PNd7ED_riley_resumepdf.pdf",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
