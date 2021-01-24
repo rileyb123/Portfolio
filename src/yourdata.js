@@ -3,8 +3,11 @@ import htmlIcon from "./images/html.svg"
 import cssIcon from "./images/css.svg"
 import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
-import designIcon from "./images/design.svg"
-import codeIcon from "./images/code.svg"
+import javaIcon from "./images/java.svg"
+import CIcon from "./images/icons8-c++.svg"
+import gitIcon from "./images/git.svg"
+import saylessIcon from "./images/chat.png"
+import pythonIcon from "./images/icons8-python.svg"
 import linkedin from "./images/iconmonstr-linkedin-3.svg"
 
 // Social Icon
@@ -21,15 +24,15 @@ export default {
   name: "riley",
   headerTagline: [
     //Line 1 For Header
-    "About Me",
+    "Full Stack ",
     //Line 2 For Header
-    // "Temp Data",
+     "Developer",
     //Line 3 For Header
     // "Temp Data",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Temp text for a little bit about me",
+    "“Live as if you were to die tomorrow. Learn as if you were to live forever.”-Mahatma Gandhi",
 
   //Contact Email
   contactEmail: "rileyburc@gmail.com",
@@ -42,34 +45,33 @@ export default {
       id: 1, //DO NOT CHANGE THIS (Please)😅
       title: "Sayless", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "A simple web chat app that emphasises saying less. Find users you don'y know and start up a converstaion. ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: "https://images.unsplash.com/photo-1611496855330-190c8113536d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
       //Project URL - Add Your Project Url Here
-      url: "http://sayless.azurewebsites.net/login",
+      url: "http://sayless.azurewebsites.net/",
     },
     {
       id: 2, //DO NOT CHANGE THIS (Please)😅
       title: "CodeNames", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "The classic board game code names. Uses the variant to be played with 2-3 players.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://images.unsplash.com/photo-1595601332599-557ac269a952?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1189&q=80",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/rileyb123/CodeNames",
     },
     {
       id: 3, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "Transfer Protocols", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Implementation of 3 transfer protocols Alternating Bit, Go Back N, and Slective Repeat.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://images.unsplash.com/photo-1611449344119-74f8e726fcab?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/rileyb123/ReliableTransferProtocols",
     },
     // {
     //   id: 4, //DO NOT CHANGE THIS (Please)😅
@@ -121,11 +123,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "My name is riley burczynski a computer science graduate from University at Buffalo. When I'm not working on a project or learning a new technology,I enjoy spending time with my dogs, playing video games, and bowling with friends and family.",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "I have experience working with a variety of technologies and working with all kinds of team members. I am currently learning React JS through building a simple path finding visalization website. I am also working with a teammate to learn several other technolgies to build a dummy bank website.",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "",
   aboutImage:
     "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
 
@@ -140,37 +142,49 @@ export default {
       id: 1,
       img: htmlIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "HTML",
     },
     {
       id: 2,
       img: cssIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "CSS",
     },
     {
       id: 3,
       img: jsIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Javscript",
     },
     {
       id: 4,
       img: reactIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "React",
     },
     {
       id: 5,
-      img: designIcon,
+      img: CIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "C/C++",
     },
     {
       id: 6,
-      img: codeIcon,
+      img: pythonIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Python",
+    },
+    {
+      id: 7,
+      img: javaIcon,
+      para:
+        "Java",
+    },
+    {
+      id: 8,
+      img: gitIcon,
+      para:
+        "git",
     },
   ],
 

@@ -1,7 +1,12 @@
+
+
 .about-section {
-  width: 80vw;
+  width: 40vw;
   margin-top: 10vh;
   display: flex;
+  text-align: center;
+ 
+  align-items: center;
   justify-content: space-between;
   @include media(">=phone", "<lgphone") {
     flex-direction: column-reverse;
@@ -14,7 +19,7 @@
     align-items: center;
   }
   .content {
-    width: 50%;
+    width: 100%;
     @include media(">=phone", "<lgphone") {
       width: 100%;
     }
