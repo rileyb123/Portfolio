@@ -33,10 +33,12 @@
     h1 {
       font-size: 3rem;
       line-height: 20px;
-      @include media(">=tablet", "<desktop") {
+      @include media(">=phone", "<desktop") {
         text-align: center;
+        line-height: 45px;
       }
     }
+   
     p {
       @include media(">=tablet", "<desktop") {
         text-align: center;

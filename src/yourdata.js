@@ -45,7 +45,7 @@ export default {
       id: 1, //DO NOT CHANGE THIS (Please)😅
       title: "Sayless", //Project Title - Add Your Project Title Here
       para:
-        "A simple web chat app that emphasises saying less. Find users you don'y know and start up a converstaion. ", // Add Your Service Type Here
+        "A simple web chat app that emphasises saying less. Find users you don't know or chat with a friend.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc: "https://images.unsplash.com/photo-1611496855330-190c8113536d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
       //Project URL - Add Your Project Url Here
