@@ -35,6 +35,7 @@
       line-height: 20px;
       @include media(">=phone", "<desktop") {
         text-align: center;
+        font-size: 2.5rem;
         line-height: 45px;
       }
     }
