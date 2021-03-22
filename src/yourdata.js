@@ -49,7 +49,7 @@ export default {
       //Project Image - Add Your Project Image Here
       imageSrc: "https://images.unsplash.com/photo-1611496855330-190c8113536d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
       //Project URL - Add Your Project Url Here
-      url: "http://sayless.azurewebsites.net/",
+      url: "https://github.com/rileyb123/sayless",
     },
     {
       id: 2, //DO NOT CHANGE THIS (Please)😅
