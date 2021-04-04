@@ -24,9 +24,9 @@ export default {
   name: "riley",
   headerTagline: [
     //Line 1 For Header
-    "Full Stack ",
+    "Software ",
     //Line 2 For Header
-     "Developer",
+     "Engineer",
     //Line 3 For Header
     // "Temp Data",
   ],
@@ -125,7 +125,7 @@ export default {
   aboutParaOne:
     "My name is riley burczynski a computer science graduate from University at Buffalo. When I'm not working on a project or learning a new technology,I enjoy spending time with my dogs, playing video games, and bowling with friends and family.",
   aboutParaTwo:
-    "I have experience working with a variety of technologies and working with all kinds of team members. I am currently learning React JS through building a simple path finding visalization website. I am also working with a teammate to learn several other technolgies to build a dummy bank website.",
+    "I have experience working with a variety of technologies and working with all kinds of team members. I am currently learning Node JS and React to build a simple weather app. I love diving deep into difficult probems to truly understand what is needed to solve them. ",
   aboutParaThree:
     "",
   aboutImage:
@@ -144,12 +144,12 @@ export default {
       para:
         "HTML",
     },
-    {
+   /* {
       id: 2,
       img: cssIcon,
       para:
         "CSS",
-    },
+    },*/
     {
       id: 3,
       img: jsIcon,
